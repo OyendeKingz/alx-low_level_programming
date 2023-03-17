@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - is the main fuction
+ * main - this is the main function
  *
- * Return: 0 when succesful
+ *
+ * Return: 0 when succesfull
  */
 
 int main(void)
