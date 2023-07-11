@@ -58,7 +58,7 @@ void print_addr(char *ptr)
  */
 void print_type(char *ptr)
 {
-	char type = ptr[16];
+	char type;
 
 	if (ptr[5] == 1)
 		type = ptr[16];
@@ -200,7 +200,7 @@ int check_elf(char *ptr)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the code.
  * @argc: number of arguments.
  * @argv: arguments vector.
  * Return: Always 0.
