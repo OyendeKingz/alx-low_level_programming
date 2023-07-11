@@ -200,7 +200,7 @@ int check_elf(char *ptr)
 }
 
 /**
- * main - check the code.
+ * main - check the code for ALX SE - Holberton School Students.
  * @argc: number of arguments.
  * @argv: arguments vector.
  * Return: Always 0.
